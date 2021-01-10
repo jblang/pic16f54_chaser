@@ -1,0 +1,8 @@
+pic16f54_chaser.X/build
+pic16f54_chaser.X/debug
+pic16f54_chaser.X/dist
+
+*.kicad_pcb-bak
+*.sch-bak
+fp-info-cache
+*.net
